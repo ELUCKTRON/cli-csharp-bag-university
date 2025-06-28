@@ -28,6 +28,7 @@ This project was completed in the **first semester** as part of the Object-Orien
 
 ```bash
 dotnet run
+```
 
 ```
 cli-csharp-bag-university
