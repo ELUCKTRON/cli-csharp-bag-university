@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BagImplementation", "BagImplementation\BagImplementation.csproj", "{DBE753D8-2C4B-4CBF-B780-312BBE1D3BA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BagImplementationTest", "BagImplementationTest\BagImplementationTest.csproj", "{A82A931B-1DF3-4D24-9AFF-BDE6533E6005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE753D8-2C4B-4CBF-B780-312BBE1D3BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE753D8-2C4B-4CBF-B780-312BBE1D3BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE753D8-2C4B-4CBF-B780-312BBE1D3BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE753D8-2C4B-4CBF-B780-312BBE1D3BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A82A931B-1DF3-4D24-9AFF-BDE6533E6005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A82A931B-1DF3-4D24-9AFF-BDE6533E6005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A82A931B-1DF3-4D24-9AFF-BDE6533E6005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A82A931B-1DF3-4D24-9AFF-BDE6533E6005}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E138D252-FB6C-4BDD-BDD8-FBFF6A84BE86}
+	EndGlobalSection
+EndGlobal
