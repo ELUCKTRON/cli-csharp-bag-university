@@ -28,3 +28,20 @@ This project was completed in the **first semester** as part of the Object-Orien
 
 ```bash
 dotnet run
+
+```
+cli-csharp-bag-university
+├─ .editorconfig
+├─ BagImplementation
+│  ├─ Bag.cs
+│  ├─ BagImplementation.csproj
+│  ├─ Menu.cs
+│  └─ Program.cs
+├─ BagImplementation.sln
+├─ BagImplementationTest
+│  ├─ BagImplementationTest.csproj
+│  └─ BagTest.cs
+├─ LICENSE
+└─ README.md
+
+```
